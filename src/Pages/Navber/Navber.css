@@ -1,0 +1,13 @@
+.logodiv img {
+    width: 100px;
+}
+
+.navbarName a,
+.contact {
+    color: black;
+}
+
+.navbarName a:hover,
+.contact:hover {
+    color: black;
+}

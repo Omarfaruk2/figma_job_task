@@ -1,0 +1,35 @@
+.black-width {
+    height: 160px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    margin: 50px 00px;
+}
+
+.history p {
+    font-size: 22px;
+    /* font-style:; */
+    font-style: oblique;
+}
+
+
+.vision-div {
+    align-items: center;
+    background-image: url(https://s3-alpha-sig.figma.com/img/167c/949d/c97ab1baa9bc1442f04e07d9fe2a4779?Expires=1661731200&Signature=dPbCx2-kDa5QTWTc3HFsdZnQY0nVi0jcjiSK-utnoKOdA62Obe9PL9lqadSCGRBP56QR5xP6XnxCw3-4kVLW8uqTk1SEHnbE~KZEnOAZLBY9fZswQxaQOH3~OTAugvTLTVBENDEZVKVot4XAWNlQKU~SgQnUQsPjj68cgqxnEVdkBsP03PCcfHFbLm3xUdRPdZdXwoAj~KorfyPMuWo8HQ1zDzffuyay4OzWXE26kO68hwiMYQIIKxRypLRH7BKQ6Yc8dN193VfATB-wP-HlXLs-I5s2HgRUcxmtT7014BMBGVxPQKPfmcIWoVFWrvzjXtTsuujGJfQnDlwiDAP8fA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 50%; */
+    /* background-size: ; */
+    width: 100%;
+    opacity: 0.8;
+    background-position: center;
+}
+
+.vision-text {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.vision-text p {
+    font-size: 20px;
+    text-align: center;
+
+}

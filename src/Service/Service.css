@@ -1,0 +1,56 @@
+.text-section p {
+    /* font-weight: 600; */
+    text-align: center;
+    font-size: 16px;
+    width: 40%;
+    margin: 00px auto;
+
+}
+
+.icon-card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+}
+
+.icon-card:hover {
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+.black-width {
+    height: 160px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    margin: 50px 00px;
+}
+
+.history p {
+    font-size: 22px;
+    /* font-style:; */
+    font-style: oblique;
+}
+
+.icon-div p {
+    font-size: 18px;
+}
+
+.maindiv {
+    align-items: center;
+    background-image: url(https://s3-alpha-sig.figma.com/img/3d0b/7c1e/f5cfd4180208aecc3958083e8a608467?Expires=1661126400&Signature=aQy3CsVynXfes8UDi1K4CD-ORyYNgonumdLxP3l8tkcezqh381zBFZogOxlhLjN7YcZ0epxGDzuCpSjIJx3KHcXCxD2-lZhFE-RdRhG8D-U9mPJQSI8S~DrEHAt9WA5E~36M4NDEzzL0tKt~-80ZxZFoxzJoMY8Ufu6Dws09iUP7VL56obKmQF~gSO2Urve6VEmP4YKjh8kFTsjNUYQP4MYFftE09xTdoBOjNQP6GTlY0l6iRlxhosLZVcA0MAHgoPMPtC5n8aTnQkhXLeBKOdvOW5rvmcV7HAPi8gA~XDv6~BlfUqs4Hu8xXY8wTaPCluU~Z6nQciaSXcQqVsYNGA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+}
+
+.react-icon-css {
+    /* color: linear-gradient(90deg, #0F497E 0%, #53CAF5 109.3%); */
+    /* color: linear-gradient(90deg, #0F497E 0%, #53CAF5 109.3%); */
+    color: #105ec4;
+    /* background: rgb(2, 0, 36); */
+    /* color: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%); */
+    font-size: 100px;
+    margin: 20px auto;
+
+}
