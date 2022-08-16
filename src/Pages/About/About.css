@@ -1,0 +1,24 @@
+.aboutImg about {
+    width: 40px;
+}
+
+.bluerow {
+    border-top: 2px solid green;
+    width: 40px;
+}
+
+.mainAbout {
+    background-color: rgb(225, 225, 225, 0.4);
+}
+
+.hr-color {
+    border-bottom: 2px solid blue;
+    width: 32%;
+    margin: 00px 30px;
+    /* padding-top: 20px; */
+    display: inline-block;
+}
+
+/* .hr-another {
+    background-color: orange;
+} */

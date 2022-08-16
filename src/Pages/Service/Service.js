@@ -5,7 +5,7 @@ import { Stopwatch, Star } from 'react-bootstrap-icons'
 // import { GiShakingHands } from "react-icons/gi"
 import { FaHandshake } from "react-icons/fa"
 import { MdRealEstateAgent } from "react-icons/md"
-import logo from "../../src/images/aboutlog.png"
+import logo from "../../../src/images/aboutlog.png"
 // import History from '../Pages/History/History'
 
 
@@ -16,9 +16,17 @@ const Service = () => {
                 <p className='fw-bold'>We endeavour to build homes which make it's residents happy and proud of their address. Residents are at heart of everything we do, we build homes to live in, not houses to stay in.
                 </p>
             </div>
-            <p className='text-center aboutImg py-5'>
+
+            {/* <p className='text-center aboutImg py-5'>
                 <img src={logo} alt="Logo" />
+            </p> */}
+
+            <p className='text-center aboutImg py-5'>
+                <hr className='hr-color' />
+                <img className='about' src={logo} alt="Logo" />
+                <hr className='hr-color' />
             </p>
+
 
             {/* Icon section */}
             <div className='icon-section container row mt-0 p-0 mx-auto'>

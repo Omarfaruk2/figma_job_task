@@ -1,0 +1,26 @@
+.company-group-image img {
+    /* margin: 00px 10px; */
+
+}
+
+.company-group-image div p {
+    text-align: center;
+    font-size: 24px;
+    color: #474747;
+    font-weight: bold;
+}
+
+.img2 {
+    /* width: 100%; */
+}
+
+.last-img {
+    height: 87%;
+}
+
+@media only screen and (max-width: 576px) {
+    .img2 img {
+        width: 300px;
+    }
+
+}

@@ -1,0 +1,72 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+}
+
+
+.ceoside {
+    align-items: center;
+    background-image: url(https://s3-alpha-sig.figma.com/img/3d0b/7c1e/f5cfd4180208aecc3958083e8a608467?Expires=1661731200&Signature=cnF~ydJ50tlms~7xt4fh5AjipKjVZ88TvSKL2vfh5oUvmMMs6NIJ469sM8oC0EYOptJ40kZZOpeCZcs8MbraiJki1Z1zETbdXhwVNxVaT3zQRF5D9svbrIYnQZ48ajA707FyiuAvlEE6P8oRygUpov2YcgOJdbFlqWaZyD6EwTnnSUNjifZbPj3TgtYcbW1pKnEJqtisrh68PPiQJy4hZPWm2k3UKw8nKHIRO8oSdft5Dd-RsIFudtqx3TDWPkja1lP2vgABCjRxILjVdy~QBZbHR~o5TbrmoadJT-YCJEsb4cxTPlIPd9g7juGM3YeBfF53shl5kI-TWj~aIUj8ag__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 50%; */
+    /* background-size: ; */
+    width: 100%;
+    opacity: 0.8;
+    background-position: center;
+}
+
+.ceo-card {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.white-color {
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.ceo-card img {
+    /* border-radius: 50%;
+   position: relative;
+   to */
+}
+
+.circle-img img {
+    border-radius: 50%;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.talk p {
+    font-size: 20px;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.another-talk p {
+    width: 80%;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 20px auto;
+}
+
+/* 
+.circular--portrait {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+
+.circular--portrait img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+} */

@@ -1,0 +1,28 @@
+.mission-card small {
+    color: #909090;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.mission-card h5,
+.mission-card p {
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+}
+
+.mission-card {
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+.first-card {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+.missionImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 78%;
+}
